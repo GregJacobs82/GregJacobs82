@@ -4,9 +4,9 @@
 </a>
 <h1 align="left" style="display:inline-block;margin-bottom:.4em;">Responsive CSS Master &amp; Sass Sorcerer</h1>
 </div>
-<a href="https://www.gregjacobs.com" title="GregJacobs.com" alt="GregJacobs.com" target="_blank" rel="nofollow">
-<h2 style="font-size:1.15em;border-bottom:none!important;margin-top:0;">GregJacobs.com</h2>
-</a>
+<h2 style="font-size:1.15em;border-bottom:none!important;margin-top:0;">
+<a href="https://www.gregjacobs.com" title="GregJacobs.com" alt="GregJacobs.com" target="_blank" rel="nofollow">GregJacobs.com</a>
+</h2>
 
 <p>I build user interfaces for websites and web applications... and I'm good at it.</p>
 
