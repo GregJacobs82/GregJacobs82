@@ -13,16 +13,16 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/vuejs-original-wordmark.svg" alt="vuejs" width="34" height="34"/> 
 <img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/react-original-wordmark.svg" alt="react" width="34" height="34"/> 
-<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="34" height="34"/> 
-<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/bootstrap-plain.svg" alt="bootstrap" width="34" height="34"/> 
-<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/css3-original-wordmark.svg" alt="css3" width="34" height="34"/> 
-<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/gulp-plain.svg" alt="gulp" width="34" height="34"/> 
-<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/html5-original-wordmark.svg" alt="html5" width="34" height="34"/> 
-<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/javascript-original.svg" alt="javascript" width="34" height="34"/> 
-<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/laravel-plain-wordmark.svg" alt="laravel" width="34" height="34"/> 
-<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/mysql-original-wordmark.svg" alt="mysql" width="34" height="34"/> 
-<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/php-original.svg" alt="php" width="34" height="34"/> 
 <img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/sass-original.svg" alt="sass" width="34" height="34"/> 
+<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/bootstrap-plain.svg" alt="bootstrap" width="34" height="34"/> 
+<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/html5-original-wordmark.svg" alt="html5" width="34" height="34"/> 
+<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/css3-original-wordmark.svg" alt="css3" width="34" height="34"/> 
+<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/javascript.svg" alt="javascript" width="34" height="34"/> 
+<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/laravel-plain-wordmark.svg" alt="laravel" width="34" height="34"/> 
+<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/gulp-plain.svg" alt="gulp" width="34" height="34"/> 
+<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/php-original.svg" alt="php" width="34" height="34"/> 
+<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/mysql-original-wordmark.svg" alt="mysql" width="34" height="34"/> 
+<img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="34" height="34"/> 
 <img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/nodejs-original-wordmark.svg" alt="nodejs" width="34" height="34"/>
 </p>
 
