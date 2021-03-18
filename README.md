@@ -1,3 +1,21 @@
+<style>
+.gregs-custom-icons {
+    padding: 8px;
+    border-radius: 4px;
+    background: white;
+    display:inline-block;
+    border: 1px solid rgba(0,0,0,.15);
+}
+.gregs-custom-icons img {
+    background: white;
+    opacity:.5;
+    transition: all 300ms ease-in-out;
+}
+.gregs-custom-icons a:hover img {
+    opacity: 1;
+    transition: all 150ms ease-in-out;
+}
+</style>
 <div>
 <a href="https://www.gregjacobs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/img/gregjacobs-icon.svg" alt="GregJacobs.com Logo - by Greg Jacobs" title="GregJacobs.com Logo - by Greg Jacobs" align="right" height="60" />
@@ -26,12 +44,12 @@
 <img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/nodejs-original-wordmark.svg" alt="nodejs" width="34" height="34"/>
 </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gregjacobs82&show_icons=true" alt="GregJacobs82" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gregjacobs82&show_icons=true?theme=vue-dark" alt="GregJacobs82" /> </p>
 
-<p align="left">
+<p class="gregs-custom-icons" align="left">
 <a href="https://linkedin.com/in/gregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/linkedin.svg" alt="gregjacobs" height="20" width="20" /></a>
 <a href="https://codepen.io/gregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/codepen.svg" alt="gregjacobs" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/gregjacobs82" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/stackoverflow.svg" alt="gregjacobs82" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/7326737/greg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/stackoverflow.svg" alt="gregjacobs82" height="20" width="20" /></a>
 <a href="https://dev.to/gregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/dev-dot-to.svg" alt="gregjacobs" height="20" width="20" /></a>
 <a href="https://twitter.com/gregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/twitter.svg" alt="gregjacobs" height="20" width="20" /></a>
 <a href="https://fb.com/gregoryjacobsdesigns" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/facebook.svg" alt="gregoryjacobsdesigns" height="20" width="20" /></a>
