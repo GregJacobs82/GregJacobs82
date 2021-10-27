@@ -8,7 +8,7 @@
 <a href="https://www.gregjacobs.com" title="GregJacobs.com" alt="GregJacobs.com" target="_blank" rel="nofollow">GregJacobs.com</a>
 </h3>
 
-<p>I build user interfaces for websites and web applications... and I'm good at it.</p>
+<p>I build user interfaces for websites and web applications... and I love it 🙂</p>
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/vuejs-original-wordmark.svg" alt="vuejs" width="34" height="34"/> 
