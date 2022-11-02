@@ -26,7 +26,9 @@
 <img src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/icons/nodejs-original-wordmark.svg" alt="nodejs" width="34" height="34"/>
 </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gregjacobs82&show_icons=true?theme=vue-dark" alt="GregJacobs82" /> </p>
+<hr>
+
+<h4>My Online Presence:</h4>
 
 <!-- NOTE: Github strips style and other styling attributes, like "fill" on SVG <path> elements. It will even strip this comment ;) @Greg -->
 <p class="gregs-custom-icons" align="left">
