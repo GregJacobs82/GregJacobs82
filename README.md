@@ -24,6 +24,11 @@
 
 <p>I build user interfaces for websites and web applications... and I love it 🙂</p>
 
+<p>I'm a seasoned UI/UX Designer and Frontend Developer with a passion for crafting intuitive digital experiences. With a proven track record spanning since I built my first computer in 1996, I have collaborated on a myriad of projects, seamlessly fusing creativity and functionality to bring designs to life.
+</p>
+
+<p>My journey has equipped me with a deep understanding of user-centered design principles, enabling me to bridge the gap between aesthetics and seamless functionality. Join me as I continue to shape pixels and code, harmonizing innovation and user satisfaction to create digital landscapes that captivate and engage.</p>
+
 <p align="left">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
