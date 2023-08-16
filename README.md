@@ -67,7 +67,7 @@
 
 <!-- NOTE: Github strips style and other styling attributes, like "fill" on SVG <path> elements. It will even strip this comment ;) @Greg -->
 <p class="gregs-custom-icons" align="left">
-<a href="https://linkedin.com/in/gregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/linkedin.svg" alt="gregjacobs" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/gregjacobz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/linkedin.svg" alt="gregjacobs" height="20" width="20" /></a>
 <a href="https://codepen.io/gregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/codepen.svg" alt="gregjacobs" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/7326737/greg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/stackoverflow.svg" alt="gregjacobs82" height="20" width="20" /></a>
 <a href="https://dev.to/gregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/dev-dot-to.svg" alt="gregjacobs" height="20" width="20" /></a>
