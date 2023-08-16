@@ -73,7 +73,7 @@
 <a href="https://dev.to/gregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/dev-dot-to.svg" alt="gregjacobs" height="20" width="20" /></a>
 <a href="https://twitter.com/gregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/twitter.svg" alt="gregjacobs" height="20" width="20" /></a>
 <a href="https://fb.com/gregoryjacobsdesigns" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/facebook.svg" alt="gregoryjacobsdesigns" height="20" width="20" /></a>
-<a href="https://instagram.com/officialgregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/instagram.svg" alt="officialgregjacobs" height="20" width="20" /></a>
+<a href="https://instagram.com/gregjacobz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/instagram.svg" alt="officialgregjacobs" height="20" width="20" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregjacobs82" alt="GregJacobs82" /> </p>
