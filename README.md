@@ -17,7 +17,7 @@
             title="GregJacobs.com Logo - by Greg Jacobs"
             align="right"
             height="60" 
-        />
+        >
     </a>
     <h1 align="left">UI/UX Designer &amp; Front End Developer</h1>
 </div>
