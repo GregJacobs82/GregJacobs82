@@ -12,7 +12,7 @@
 <div>
     <a href="https://www.gregjacobs.com" target="_blank">
         <img 
-            src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/img/gregjacobs-icon.svg" 
+            src="./img/gregjacobs-icon.svg" 
             alt="GregJacobs.com Logo - by Greg Jacobs"
             title="GregJacobs.com Logo - by Greg Jacobs"
             align="right"
@@ -30,6 +30,10 @@
 <p>My journey has equipped me with a deep understanding of user-centered design principles, enabling me to bridge the gap between aesthetics and seamless functionality. Join me as I continue to shape pixels and code, harmonizing innovation and user satisfaction to create digital landscapes that captivate and engage.</p>
 
 <p align="left">
+<!-- 
+Greg, you downloaded all external badges and saved them in the ./badges folder. Leaving code here for reference.
+// URL: https://shields.io
+// GITHUB: https://github.com/badges/shields
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
@@ -59,6 +63,36 @@
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
+-->
+<img src="./badges/html5.svg"/>
+<img src="./badges/css3.svg"/>
+<img src="./badges/sass.svg"/>
+<img src="./badges/bootstrap.svg"/>
+<img src="./badges/vite.svg"/>
+<img src="./badges/vue-js.svg"/>
+<img src="./badges/vuetify.svg"/>
+<img src="./badges/nuxt.svg"/>
+<img src="./badges/react.svg"/>
+<img src="./badges/firebase.svg"/>
+<img src="./badges/cypress.svg"/>
+<img src="./badges/jest.svg"/>
+<img src="./badges/apollo-graphql.svg"/>
+<img src="./badges/graphql.svg"/>
+<img src="./badges/chart-js.svg"/>
+<img src="./badges/gulp.svg"/>
+<img src="./badges/laravel.svg"/>
+<img src="./badges/npm.svg"/>
+<img src="./badges/yarn.svg"/>
+<img src="./badges/node-js.svg"/>
+<img src="./badges/styled-components.svg"/>
+<img src="./badges/netlify.svg"/>
+<img src="./badges/heroku.svg"/>
+<img src="./badges/github-pages.svg"/>
+<img src="./badges/jquery.svg"/>
+<img src="./badges/javascript.svg"/>
+<img src="./badges/typescript.svg"/>
+<img src="./badges/php.svg"/>
+<img src="./badges/phpstorm.svg"/>
 </p>
 
 <hr>
@@ -67,13 +101,13 @@
 
 <!-- NOTE: Github strips style and other styling attributes, like "fill" on SVG <path> elements. It will even strip this comment ;) @Greg -->
 <p class="gregs-custom-icons" align="left">
-<a href="https://linkedin.com/in/gregjacobz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/linkedin.svg" alt="gregjacobs" height="20" width="20" /></a>
-<a href="https://codepen.io/gregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/codepen.svg" alt="gregjacobs" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/7326737/greg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/stackoverflow.svg" alt="gregjacobs82" height="20" width="20" /></a>
-<a href="https://dev.to/gregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/dev-dot-to.svg" alt="gregjacobs" height="20" width="20" /></a>
-<a href="https://twitter.com/gregjacobs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/twitter.svg" alt="gregjacobs" height="20" width="20" /></a>
-<a href="https://fb.com/gregoryjacobsdesigns" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/facebook.svg" alt="gregoryjacobsdesigns" height="20" width="20" /></a>
-<a href="https://instagram.com/gregjacobz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/GregJacobs82/GregJacobs82/master/social/instagram.svg" alt="officialgregjacobs" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/gregjacobz" target="_blank"><img align="center" src="./social/linkedin.svg" alt="gregjacobs" height="20" width="20" /></a>
+<a href="https://codepen.io/gregjacobs" target="_blank"><img align="center" src="./social/codepen.svg" alt="gregjacobs" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/7326737/greg" target="_blank"><img align="center" src="./social/stackoverflow.svg" alt="gregjacobs82" height="20" width="20" /></a>
+<a href="https://dev.to/gregjacobs" target="_blank"><img align="center" src="./social/dev-dot-to.svg" alt="gregjacobs" height="20" width="20" /></a>
+<a href="https://twitter.com/gregjacobs" target="_blank"><img align="center" src="./social/twitter.svg" alt="gregjacobs" height="20" width="20" /></a>
+<a href="https://fb.com/gregoryjacobsdesigns" target="_blank"><img align="center" src="./social/facebook.svg" alt="gregoryjacobsdesigns" height="20" width="20" /></a>
+<a href="https://instagram.com/gregjacobz" target="_blank"><img align="center" src="./social/instagram.svg" alt="officialgregjacobs" height="20" width="20" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregjacobs82" alt="GregJacobs82" /> </p>
