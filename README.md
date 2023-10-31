@@ -22,7 +22,7 @@
     <h1 align="left">UI/UX Designer &amp; Front End Developer</h1>
 </div>
 
-<p>I build user interfaces for websites and web applications... and I love it 🙂</p>
+<p>I develop user interfaces and user experiences for websites and web applications... and I love it 🙂</p>
 
 <p>I'm a seasoned UI/UX Designer and Frontend Developer with a passion for crafting intuitive digital experiences. With a proven track record spanning since I built my first computer in 1996, I have collaborated on a myriad of projects, seamlessly fusing creativity and functionality to bring designs to life.
 </p>
