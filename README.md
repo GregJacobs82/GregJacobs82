@@ -1,24 +1,24 @@
 <h3 style="font-size:1.15em;margin-top:0;">
+    <a href="https://www.gregjacobs.com" target="_blank">
+        <img 
+            src="./img/gregjacobs-icon.svg" 
+            alt="GregJacobs.com Logo - by Greg Jacobs"
+            title="GregJacobs.com Logo - by Greg Jacobs"
+            align="left"
+            height="30" 
+        >
+    </a>
     <a 
         href="https://www.gregjacobs.com" 
         title="GregJacobs.com" 
         alt="GregJacobs.com"
         target="_blank"
         rel="nofollow"
-        >
+    >
             GregJacobs.com
     </a>
 </h3>
 <div>
-    <a href="https://www.gregjacobs.com" target="_blank">
-        <img 
-            src="./img/gregjacobs-icon.svg" 
-            alt="GregJacobs.com Logo - by Greg Jacobs"
-            title="GregJacobs.com Logo - by Greg Jacobs"
-            align="right"
-            height="60" 
-        >
-    </a>
     <h1 align="left">Software Development Engineer in Test (SCDET)</h1>
 </div>
 
@@ -31,6 +31,8 @@
 <p>Over the years, I have transitioned from crafting intuitive digital interfaces to engineering automated testing solutions, continuously evolving my approach to meet the needs of modern software development. I am passionate about creating efficient, maintainable tests that support development teams in delivering exceptional products.</p>
 
 <p>Whether it's automating end-to-end tests with Cypress or leveraging my background in front-end development, I am committed to quality and innovation in every line of code I write. Let's connect and explore how we can build better software, together.</p>
+
+<p>&nbsp;</p>
 
 <p align="left">
 <!-- 
