@@ -19,15 +19,18 @@
             height="60" 
         >
     </a>
-    <h1 align="left">UI/UX Designer &amp; Front End Developer</h1>
+    <h1 align="left">Software Development Engineer in Test (SCDET)</h1>
 </div>
 
-<p>I develop user interfaces and user experiences for websites and web applications... and I love it 🙂</p>
+<h3 align="left">I write automation tests in Cypress for quality assurance... and I love it 🙂</h3>
 
-<p>I'm a seasoned UI/UX Designer and Frontend Developer with a passion for crafting intuitive digital experiences. With a proven track record spanning since I built my first computer in 1996, I have collaborated on a myriad of projects, seamlessly fusing creativity and functionality to bring designs to life.
-</p>
+<p>I specialize in writing automation tests using Cypress to ensure the highest quality in software products. As a dedicated QA Automation Engineer and SDET, my focus is on building robust, scalable test automation frameworks that enhance product reliability and accelerate the development cycle.</p>
 
-<p>My journey has equipped me with a deep understanding of user-centered design principles, enabling me to bridge the gap between aesthetics and seamless functionality. Join me as I continue to shape pixels and code, harmonizing innovation and user satisfaction to create digital landscapes that captivate and engage.</p>
+<p>With a strong foundation in both software development and quality assurance, I bring a unique blend of skills that spans test automation, front-end development, and UI/UX design. My experience in UI/UX allows me to approach testing with an eye for user-centered design, ensuring that automated tests not only validate functionality but also uphold the user experience.</p>
+
+<p>Over the years, I have transitioned from crafting intuitive digital interfaces to engineering automated testing solutions, continuously evolving my approach to meet the needs of modern software development. I am passionate about creating efficient, maintainable tests that support development teams in delivering exceptional products.</p>
+
+<p>Whether it's automating end-to-end tests with Cypress or leveraging my background in front-end development, I am committed to quality and innovation in every line of code I write. Let's connect and explore how we can build better software, together.</p>
 
 <p align="left">
 <!-- 
