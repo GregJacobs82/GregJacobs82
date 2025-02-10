@@ -19,7 +19,7 @@
     </a>
 </h3>
 <div>
-    <h1 align="left">Software Development Engineer in Test (SCDET)</h1>
+    <h1 align="left">Software Development Engineer in Test (SDET)</h1>
 </div>
 
 <h3 align="left">I write automation tests in Cypress for quality assurance... and I love it 🙂</h3>
